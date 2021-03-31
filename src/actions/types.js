@@ -1,0 +1,38 @@
+export const GET_ITEM= 'GET_ITEM';
+export const ADD_ITEM='ADD_ITEM';
+export const DELETE_ITEM='DELETE_ITEM';
+export const ITEMS_LOAD='ITEMS_LOAD';
+export const TOKEN_LOADING='TOKEN_LOADING';
+export const TOKEN_LOADED='TOKEN_LOADED';
+export const TASK_LOADING='TASK_LOADING';
+export const TASK_LOADED='TASK_LOADED';
+export const USER_LOADING='USER_LOADING';
+export const USER_LOADED='USER_LOADED';
+export const AUTH_ERROR='AUTH_ERROR';
+export const TOKEN_ERROR='TOKEN_ERROR';
+
+export const ADD_TASK='ADD_TASK';
+export const UPDATE_TASK='UPDATE_TASK';
+export const DELETE_TASK='DELETE_TASK';
+
+export const ADD_TASK_FAIL='ADD_TASK_FAIL';
+export const DELETE_TASK_FAIL='DELETE_TASK_FAIL';
+export const UPDATE_TASK_FAIL='UPDATE_TASK_FAIL';
+
+
+
+export const TASK_ERROR='TOKEN_ERROR';
+
+
+
+
+
+export const LOGOUT_SUCCESS='LOGOUT_SUCCESS';
+export const REGISTER_SUCCESS='REGISTER_SUCCESS';
+export const REGISTER_FAIL='REGISTER_FAIL';
+export const GET_ERRORS='GET_ERRORS';
+export const CLEAR_ERRORS='CLEAR_ERRORS';
+export const UPDATE_SUCCESS='UPDATE_SUCCESS';
+
+
+

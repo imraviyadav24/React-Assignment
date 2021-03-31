@@ -1,0 +1,11 @@
+.formik{
+    font-size: 10px !important;
+    color:aqua;
+}
+form,.form-control,.custom-select,.btn{
+    font-size: 10px !important;
+    /* background-color: black; */
+}
+.form-label{
+    font-weight: bold;
+}
