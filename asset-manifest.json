@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Assignment/static/css/main.74964ef6.chunk.css",
+    "main.js": "/React-Assignment/static/js/main.022c2375.chunk.js",
+    "main.js.map": "/React-Assignment/static/js/main.022c2375.chunk.js.map",
+    "runtime-main.js": "/React-Assignment/static/js/runtime-main.9d74eaeb.js",
+    "runtime-main.js.map": "/React-Assignment/static/js/runtime-main.9d74eaeb.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/React-Assignment/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.40e8918e.chunk.js": "/React-Assignment/static/js/2.40e8918e.chunk.js",
+    "static/js/2.40e8918e.chunk.js.map": "/React-Assignment/static/js/2.40e8918e.chunk.js.map",
+    "static/js/3.c5c98227.chunk.js": "/React-Assignment/static/js/3.c5c98227.chunk.js",
+    "static/js/3.c5c98227.chunk.js.map": "/React-Assignment/static/js/3.c5c98227.chunk.js.map",
+    "index.html": "/React-Assignment/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/React-Assignment/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.74964ef6.chunk.css.map": "/React-Assignment/static/css/main.74964ef6.chunk.css.map",
+    "static/js/2.40e8918e.chunk.js.LICENSE.txt": "/React-Assignment/static/js/2.40e8918e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d74eaeb.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.40e8918e.chunk.js",
+    "static/css/main.74964ef6.chunk.css",
+    "static/js/main.022c2375.chunk.js"
+  ]
+}
